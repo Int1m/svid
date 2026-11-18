@@ -1673,6 +1673,76 @@ h1 em {
   }
 }
 
+/* Celebration after the email is sent */
+.celebration-screen {
+  display: grid;
+  place-items: center;
+  isolation: isolate;
+  text-align: center;
+}
+
+.celebration-canvas {
+  position: fixed;
+  z-index: 2;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.celebration-content {
+  position: relative;
+  z-index: 3;
+  display: flex;
+  max-width: 680px;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0;
+}
+
+.celebration-icon {
+  display: grid;
+  width: 72px;
+  height: 72px;
+  place-items: center;
+  margin-bottom: 28px;
+  border: 1px solid oklch(0.76 0.14 18 / 0.35);
+  border-radius: 50%;
+  background: oklch(0.61 0.19 18 / 0.1);
+  color: var(--cherry-400);
+  box-shadow: 0 18px 60px oklch(0.61 0.19 18 / 0.16);
+}
+
+.celebration-content .eyebrow {
+  margin-bottom: 20px;
+}
+
+.celebration-content h1 {
+  margin: 0;
+  color: var(--paper-50);
+  font-size: clamp(120px, 20vw, 240px);
+  letter-spacing: -0.075em;
+  line-height: 0.8;
+  text-shadow: 0 12px 70px oklch(0.61 0.19 18 / 0.18);
+}
+
+.celebration-content p {
+  margin: 36px 0 30px;
+  color: var(--paper-400);
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+@media (max-width: 760px) {
+  .celebration-content h1 {
+    font-size: clamp(104px, 38vw, 160px);
+  }
+
+  .celebration-content p {
+    font-size: 17px;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;

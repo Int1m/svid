@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
+import confetti from 'canvas-confetti'
 import {
   ArrowLeft,
   ArrowRight,
@@ -29,7 +30,7 @@ import {
 } from './data'
 import './App.css'
 
-type Step = 'welcome' | 'date' | 'activities' | 'cinema' | 'billiards' | 'dinner' | 'everything' | 'final'
+type Step = 'welcome' | 'date' | 'activities' | 'cinema' | 'billiards' | 'dinner' | 'everything' | 'final' | 'celebration'
 type Activity = 'cinema' | 'billiards' | 'dinner' | 'everything'
 type SelectedSession = MovieSession & { format: string }
 
@@ -157,8 +158,76 @@ function VenueTimeScreen({
   )
 }
 
+function CelebrationScreen({ onRestart }: { onRestart: () => void }) {
+  const canvasRef = useRef<HTMLCanvasElement>(null)
+
+  useEffect(() => {
+    const canvas = canvasRef.current
+    if (!canvas || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+
+    const fire = confetti.create(canvas, { resize: true, useWorker: true })
+    const colors = ['#ee6a7d', '#f4a6b1', '#edc98f', '#f7eee8']
+    let burst = 0
+
+    const launch = () => {
+      const fromLeft = burst % 2 === 0
+      void fire({
+        particleCount: 28,
+        angle: fromLeft ? 60 : 120,
+        spread: 72,
+        startVelocity: 34,
+        origin: { x: fromLeft ? 0.12 : 0.88, y: 0.7 },
+        colors,
+        scalar: 0.72,
+        ticks: 170,
+        gravity: 0.85,
+        drift: fromLeft ? 0.35 : -0.35,
+        disableForReducedMotion: true,
+      })
+      if (burst % 3 === 0) {
+        void fire({
+          particleCount: 20,
+          angle: 90,
+          spread: 110,
+          startVelocity: 28,
+          origin: { x: 0.5, y: 0.58 },
+          colors,
+          scalar: 0.6,
+          ticks: 150,
+          disableForReducedMotion: true,
+        })
+      }
+      burst += 1
+    }
+
+    launch()
+    const interval = window.setInterval(launch, 520)
+    const stop = window.setTimeout(() => window.clearInterval(interval), 3600)
+    return () => {
+      window.clearInterval(interval)
+      window.clearTimeout(stop)
+      fire.reset()
+    }
+  }, [])
+
+  return (
+    <section className="screen celebration-screen">
+      <canvas className="celebration-canvas" ref={canvasRef} aria-hidden="true" />
+      <div className="celebration-content">
+        <span className="celebration-icon"><Heart size={32} fill="currentColor" strokeWidth={1.4} /></span>
+        <span className="eyebrow"><Sparkles size={16} /> Выбор отправлен</span>
+        <h1>Ура!</h1>
+        <p>Наш план официально принят.<br />До скорого — я уже предвкушаю.</p>
+        <button className="primary-button" type="button" onClick={onRestart}>
+          Вернуться в начало <ArrowRight size={19} />
+        </button>
+      </div>
+    </section>
+  )
+}
+
 export default function App() {
-  const [step, setStep] = useState<Step>('welcome')
+  const [step, setStep] = useState<Step>(() => new URLSearchParams(window.location.search).get('sent') === '1' ? 'celebration' : 'welcome')
   const [date, setDate] = useState('')
   const [activity, setActivity] = useState<Activity | null>(null)
   const [cinemaName, setCinemaName] = useState('')
@@ -184,6 +253,14 @@ export default function App() {
     const value = new Date()
     value.setDate(value.getDate() + 60)
     return toLocalISODate(value)
+  }, [])
+
+  const successUrl = useMemo(() => {
+    const url = new URL(window.location.href)
+    url.search = ''
+    url.hash = ''
+    url.searchParams.set('sent', '1')
+    return url.toString()
   }, [])
 
   const cinemas = karoSchedule[date] ?? []
@@ -262,7 +339,14 @@ export default function App() {
     setStep('final')
   }
 
-  const stepLabel = step === 'welcome' ? 'один маленький вопрос' : step === 'final' ? 'скоро увидимся' : 'планируем наш вечер'
+  const restart = () => {
+    const url = new URL(window.location.href)
+    url.searchParams.delete('sent')
+    window.history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`)
+    setStep('welcome')
+  }
+
+  const stepLabel = step === 'welcome' ? 'один маленький вопрос' : step === 'final' || step === 'celebration' ? 'скоро увидимся' : 'планируем наш вечер'
 
   return (
     <main className="site-shell">
@@ -481,7 +565,7 @@ export default function App() {
             </div>
             <div className="ticket-stub">
               <Heart size={30} fill="currentColor" strokeWidth={1.2} />
-              <span>наше<br />первое<br />свидание</span>
+              <span>наше<br />свидание</span>
               <strong>{date ? new Date(`${date}T12:00:00`).getDate() : ''}</strong>
               <small>{date ? new Intl.DateTimeFormat('ru-RU', { month: 'long' }).format(new Date(`${date}T12:00:00`)) : ''}</small>
             </div>
@@ -497,6 +581,7 @@ export default function App() {
               <input type="hidden" name="message" value={summaryText} />
               <input type="hidden" name="_template" value="box" />
               <input type="hidden" name="_captcha" value="false" />
+              <input type="hidden" name="_next" value={successUrl} />
               <span>Отправь мне наш план, чтобы я всё записал.</span>
               <button className="primary-button" type="submit">
                 <Send size={18} /> Отправить выбор
@@ -521,6 +606,8 @@ export default function App() {
           <button className="text-button final-back" type="button" onClick={() => setStep('activities')}><ArrowLeft size={16} /> Выбрать другой вариант</button>
         </section>
       )}
+
+      {step === 'celebration' && <CelebrationScreen onRestart={restart} />}
 
       <footer className="footer">Сделано с симпатией и лёгким волнением.</footer>
     </main>
