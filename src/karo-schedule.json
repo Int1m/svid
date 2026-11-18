@@ -1,0 +1,2183 @@
+{
+  "2026-11-19": [
+    {
+      "cinema": "13 Vegas Кунцево",
+      "address": "с. Немчиновка, Одинцовский район, 56 км МКАД , ТРК «Vegas Кунцево»",
+      "formats": [
+        {
+          "format": "Стандарт",
+          "sessions": [
+            {
+              "time": "21:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979369?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Sky 17 Авиапарк",
+      "address": "г. Москва, ул. Ходынский бульвар д. 4, ТЦ \"АВИАПАРК\"",
+      "formats": [
+        {
+          "format": "Стандарт  19:20 от 750 ₽",
+          "sessions": [
+            {
+              "time": "13:25",
+              "price": "от 650 ₽",
+              "route": "/order/session/376979751?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:20",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979778?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Комфорт+  22:20 от 1050 ₽ 01:10 от 1050 ₽",
+          "sessions": [
+            {
+              "time": "11:05",
+              "price": "от 1050 ₽",
+              "route": "/order/session/376979741?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:20",
+              "price": "от 1050 ₽",
+              "route": "/order/session/376979793?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "01:10",
+              "price": "от 1050 ₽",
+              "route": "/order/session/376979809?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Премиум",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 2600 ₽",
+              "route": "/order/session/376979768?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "5 Иридиум",
+      "address": "г. Зеленоград, Крюковская пл., 1, ж/д, ст. Крюково ТРЦ «Иридиум», 3 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  22:35 от 650 ₽",
+          "sessions": [
+            {
+              "time": "16:15",
+              "price": "от 550 ₽",
+              "route": "/order/session/376978772?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:35",
+              "price": "от 650 ₽",
+              "route": "/order/session/376978783?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 София",
+      "address": "г. Москва, Сиреневый бульвар, 31",
+      "formats": [
+        {
+          "format": "Комфорт+  21:45 от 750 ₽",
+          "sessions": [
+            {
+              "time": "17:05",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976880?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:45",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976891?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "4 Высота",
+      "address": "г. Москва, ул. Юных Ленинцев, 52",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "22:30",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976214?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Будапешт",
+      "address": "г. Москва, ул. Лескова, 14",
+      "formats": [
+        {
+          "format": "Комфорт+  19:15 от 650 ₽",
+          "sessions": [
+            {
+              "time": "15:45",
+              "price": "от 550 ₽",
+              "route": "/order/session/376976693?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:15",
+              "price": "от 650 ₽",
+              "route": "/order/session/376976699?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "7 Атриум",
+      "address": "г. Москва, ул. Земляной вал, 33 (ТРК \"АТРИУМ\")",
+      "formats": [
+        {
+          "format": "Комфорт+  15:20 от 800 ₽ 20:30 от 850 ₽",
+          "sessions": [
+            {
+              "time": "10:50",
+              "price": "от 700 ₽",
+              "route": "/order/session/376977118?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "15:20",
+              "price": "от 800 ₽",
+              "route": "/order/session/376977128?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:30",
+              "price": "от 850 ₽",
+              "route": "/order/session/376977137?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "9 Vegas Каширский",
+      "address": "г. Москва, 24-ый км МКАД, ТЦ Вегас, 2 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  20:40 от 750 ₽",
+          "sessions": [
+            {
+              "time": "15:00",
+              "price": "от 650 ₽",
+              "route": "/order/session/376977770?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376977778?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 Реутов",
+      "address": "г. Реутов, Носовихинское шоссе, д. 45, ТРЦ \"Реутов Парк\"",
+      "formats": [
+        {
+          "format": "Стандарт  21:40 от 620 ₽",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 620 ₽",
+              "route": "/order/session/376978936?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 620 ₽",
+              "route": "/order/session/376978948?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Vegas 22",
+      "address": "г. Красногорск, ул. Международная д.12 , ТК«Vegas Крокус Сити», Тел. боулинг-центра \"КАРО Страйк\": +7 966 019 12 75",
+      "formats": [
+        {
+          "format": "Стандарт  20:55 от 750 ₽ 23:40 от 750 ₽",
+          "sessions": [
+            {
+              "time": "16:10",
+              "price": "от 650 ₽",
+              "route": "/order/session/376975392?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:55",
+              "price": "от 750 ₽",
+              "route": "/order/session/376975418?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376975427?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "8 Саларис",
+      "address": "г.Москва, 23-й километр Киевского ш. (п. Московский), д.1 ТРЦ Саларис",
+      "formats": [
+        {
+          "format": "Стандарт  00:00 от 750 ₽",
+          "sessions": [
+            {
+              "time": "20:15",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976092?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "00:00",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976103?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Киргизия",
+      "address": "г. Москва, Зеленый пр., 81",
+      "formats": [
+        {
+          "format": "Комфорт+  18:00 от 750 ₽ 22:30 от 750 ₽",
+          "sessions": [
+            {
+              "time": "11:00",
+              "price": "от 600 ₽",
+              "route": "/order/session/376980816?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "18:00",
+              "price": "от 750 ₽",
+              "route": "/order/session/376980827?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:30",
+              "price": "от 750 ₽",
+              "route": "/order/session/376980835?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "11 Октябрь",
+      "address": "г. Москва, ул. Новый Арбат, д. 24",
+      "formats": [
+        {
+          "format": "Стандарт  21:15 от 750 ₽",
+          "sessions": [
+            {
+              "time": "15:20",
+              "price": "от 650 ₽",
+              "route": "/order/session/376981126?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:15",
+              "price": "от 750 ₽",
+              "route": "/order/session/376981139?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Щука",
+      "address": "г. Москва, ул. Щукинская, д. 42, ТРК \"Щука\"",
+      "formats": [
+        {
+          "format": "Стандарт",
+          "sessions": [
+            {
+              "time": "18:00",
+              "price": "от 620 ₽",
+              "route": "/order/session/376979194?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2026-11-20": [
+    {
+      "cinema": "13 Vegas Кунцево",
+      "address": "с. Немчиновка, Одинцовский район, 56 км МКАД , ТРК «Vegas Кунцево»",
+      "formats": [
+        {
+          "format": "Стандарт",
+          "sessions": [
+            {
+              "time": "21:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979396?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Sky 17 Авиапарк",
+      "address": "г. Москва, ул. Ходынский бульвар д. 4, ТЦ \"АВИАПАРК\"",
+      "formats": [
+        {
+          "format": "Стандарт  19:20 от 750 ₽",
+          "sessions": [
+            {
+              "time": "13:25",
+              "price": "от 650 ₽",
+              "route": "/order/session/376979829?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:20",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979855?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Комфорт+  22:20 от 1050 ₽ 01:10 от 1050 ₽",
+          "sessions": [
+            {
+              "time": "11:05",
+              "price": "от 1050 ₽",
+              "route": "/order/session/376979819?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:20",
+              "price": "от 1050 ₽",
+              "route": "/order/session/376979870?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "01:10",
+              "price": "от 1050 ₽",
+              "route": "/order/session/376979887?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Премиум",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 2600 ₽",
+              "route": "/order/session/376979846?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "5 Иридиум",
+      "address": "г. Зеленоград, Крюковская пл., 1, ж/д, ст. Крюково ТРЦ «Иридиум», 3 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  22:35 от 650 ₽",
+          "sessions": [
+            {
+              "time": "16:15",
+              "price": "от 550 ₽",
+              "route": "/order/session/376978793?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:35",
+              "price": "от 650 ₽",
+              "route": "/order/session/376978804?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 София",
+      "address": "г. Москва, Сиреневый бульвар, 31",
+      "formats": [
+        {
+          "format": "Комфорт+  21:40 от 750 ₽",
+          "sessions": [
+            {
+              "time": "17:05",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976915?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976926?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Будапешт",
+      "address": "г. Москва, ул. Лескова, 14",
+      "formats": [
+        {
+          "format": "Комфорт+  19:15 от 650 ₽",
+          "sessions": [
+            {
+              "time": "15:45",
+              "price": "от 550 ₽",
+              "route": "/order/session/376976719?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:15",
+              "price": "от 650 ₽",
+              "route": "/order/session/376976725?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "7 Атриум",
+      "address": "г. Москва, ул. Земляной вал, 33 (ТРК \"АТРИУМ\")",
+      "formats": [
+        {
+          "format": "Комфорт+  20:15 от 850 ₽ 23:05 от 850 ₽",
+          "sessions": [
+            {
+              "time": "13:30",
+              "price": "от 800 ₽",
+              "route": "/order/session/376977153?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:15",
+              "price": "от 850 ₽",
+              "route": "/order/session/376977167?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:05",
+              "price": "от 850 ₽",
+              "route": "/order/session/376977174?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "9 Vegas Каширский",
+      "address": "г. Москва, 24-ый км МКАД, ТЦ Вегас, 2 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  20:40 от 750 ₽",
+          "sessions": [
+            {
+              "time": "15:00",
+              "price": "от 650 ₽",
+              "route": "/order/session/376977797?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376977808?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 Реутов",
+      "address": "г. Реутов, Носовихинское шоссе, д. 45, ТРЦ \"Реутов Парк\"",
+      "formats": [
+        {
+          "format": "Стандарт  21:40 от 620 ₽",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 620 ₽",
+              "route": "/order/session/376978973?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 620 ₽",
+              "route": "/order/session/376978985?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Vegas 22",
+      "address": "г. Красногорск, ул. Международная д.12 , ТК«Vegas Крокус Сити», Тел. боулинг-центра \"КАРО Страйк\": +7 966 019 12 75",
+      "formats": [
+        {
+          "format": "Стандарт  20:55 от 750 ₽ 23:40 от 750 ₽",
+          "sessions": [
+            {
+              "time": "16:10",
+              "price": "от 650 ₽",
+              "route": "/order/session/376975456?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:55",
+              "price": "от 750 ₽",
+              "route": "/order/session/376975482?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376975491?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "8 Саларис",
+      "address": "г.Москва, 23-й километр Киевского ш. (п. Московский), д.1 ТРЦ Саларис",
+      "formats": [
+        {
+          "format": "Стандарт  00:00 от 750 ₽",
+          "sessions": [
+            {
+              "time": "20:15",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976122?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "00:00",
+              "price": "от 750 ₽",
+              "route": "/order/session/376976132?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Киргизия",
+      "address": "г. Москва, Зеленый пр., 81",
+      "formats": [
+        {
+          "format": "Комфорт+  18:00 от 750 ₽ 22:30 от 750 ₽",
+          "sessions": [
+            {
+              "time": "11:00",
+              "price": "от 600 ₽",
+              "route": "/order/session/376980841?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "18:00",
+              "price": "от 750 ₽",
+              "route": "/order/session/376980852?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:30",
+              "price": "от 750 ₽",
+              "route": "/order/session/376980860?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "11 Октябрь",
+      "address": "г. Москва, ул. Новый Арбат, д. 24",
+      "formats": [
+        {
+          "format": "Стандарт  23:25 от 750 ₽",
+          "sessions": [
+            {
+              "time": "15:15",
+              "price": "от 650 ₽",
+              "route": "/order/session/376981172?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:25",
+              "price": "от 750 ₽",
+              "route": "/order/session/376981205?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Щука",
+      "address": "г. Москва, ул. Щукинская, д. 42, ТРК \"Щука\"",
+      "formats": [
+        {
+          "format": "Стандарт  18:00 от 620 ₽",
+          "sessions": [
+            {
+              "time": "13:10",
+              "price": "от 520 ₽",
+              "route": "/order/session/376979209?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "18:00",
+              "price": "от 620 ₽",
+              "route": "/order/session/376979217?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2026-11-21": [
+    {
+      "cinema": "Sky 17 Авиапарк",
+      "address": "г. Москва, ул. Ходынский бульвар д. 4, ТЦ \"АВИАПАРК\"",
+      "formats": [
+        {
+          "format": "Стандарт  19:20 от 900 ₽",
+          "sessions": [
+            {
+              "time": "13:45",
+              "price": "от 900 ₽",
+              "route": "/order/session/376979907?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:20",
+              "price": "от 900 ₽",
+              "route": "/order/session/376979934?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Комфорт+  22:20 от 1550 ₽ 01:10 от 1550 ₽",
+          "sessions": [
+            {
+              "time": "11:05",
+              "price": "от 1550 ₽",
+              "route": "/order/session/376979896?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:20",
+              "price": "от 1550 ₽",
+              "route": "/order/session/376979949?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "01:10",
+              "price": "от 1550 ₽",
+              "route": "/order/session/376979966?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Премиум",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 3100 ₽",
+              "route": "/order/session/376979924?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "5 Иридиум",
+      "address": "г. Зеленоград, Крюковская пл., 1, ж/д, ст. Крюково ТРЦ «Иридиум», 3 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  22:35 от 650 ₽",
+          "sessions": [
+            {
+              "time": "16:25",
+              "price": "от 650 ₽",
+              "route": "/order/session/376978814?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:35",
+              "price": "от 650 ₽",
+              "route": "/order/session/376978825?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 София",
+      "address": "г. Москва, Сиреневый бульвар, 31",
+      "formats": [
+        {
+          "format": "Комфорт+  21:45 от 900 ₽",
+          "sessions": [
+            {
+              "time": "17:05",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976952?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:45",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976963?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Будапешт",
+      "address": "г. Москва, ул. Лескова, 14",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "19:15",
+              "price": "от 770 ₽",
+              "route": "/order/session/376976751?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "7 Атриум",
+      "address": "г. Москва, ул. Земляной вал, 33 (ТРК \"АТРИУМ\")",
+      "formats": [
+        {
+          "format": "Комфорт+  20:20 от 900 ₽ 23:05 от 900 ₽",
+          "sessions": [
+            {
+              "time": "13:35",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977186?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:20",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977201?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:05",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977207?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "9 Vegas Каширский",
+      "address": "г. Москва, 24-ый км МКАД, ТЦ Вегас, 2 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  23:45 от 900 ₽",
+          "sessions": [
+            {
+              "time": "21:00",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977852?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:45",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977861?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 Реутов",
+      "address": "г. Реутов, Носовихинское шоссе, д. 45, ТРЦ \"Реутов Парк\"",
+      "formats": [
+        {
+          "format": "Стандарт  21:40 от 750 ₽",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979012?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979024?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Vegas 22",
+      "address": "г. Красногорск, ул. Международная д.12 , ТК«Vegas Крокус Сити», Тел. боулинг-центра \"КАРО Страйк\": +7 966 019 12 75",
+      "formats": [
+        {
+          "format": "Стандарт  20:55 от 850 ₽ 23:40 от 850 ₽",
+          "sessions": [
+            {
+              "time": "16:10",
+              "price": "от 850 ₽",
+              "route": "/order/session/376975520?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:55",
+              "price": "от 850 ₽",
+              "route": "/order/session/376975547?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 850 ₽",
+              "route": "/order/session/376975556?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "8 Саларис",
+      "address": "г.Москва, 23-й километр Киевского ш. (п. Московский), д.1 ТРЦ Саларис",
+      "formats": [
+        {
+          "format": "Стандарт  23:40 от 900 ₽",
+          "sessions": [
+            {
+              "time": "20:15",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976154?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976162?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Киргизия",
+      "address": "г. Москва, Зеленый пр., 81",
+      "formats": [
+        {
+          "format": "Комфорт+  22:30 от 850 ₽",
+          "sessions": [
+            {
+              "time": "18:00",
+              "price": "от 850 ₽",
+              "route": "/order/session/376980877?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:30",
+              "price": "от 850 ₽",
+              "route": "/order/session/376980885?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "11 Октябрь",
+      "address": "г. Москва, ул. Новый Арбат, д. 24",
+      "formats": [
+        {
+          "format": "Стандарт  23:10 от 850 ₽",
+          "sessions": [
+            {
+              "time": "18:00",
+              "price": "от 850 ₽",
+              "route": "/order/session/376981229?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:10",
+              "price": "от 850 ₽",
+              "route": "/order/session/376981244?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Щука",
+      "address": "г. Москва, ул. Щукинская, д. 42, ТРК \"Щука\"",
+      "formats": [
+        {
+          "format": "Стандарт  22:55 от 720 ₽",
+          "sessions": [
+            {
+              "time": "18:05",
+              "price": "от 720 ₽",
+              "route": "/order/session/376979239?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:55",
+              "price": "от 720 ₽",
+              "route": "/order/session/376979248?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2026-11-22": [
+    {
+      "cinema": "Sky 17 Авиапарк",
+      "address": "г. Москва, ул. Ходынский бульвар д. 4, ТЦ \"АВИАПАРК\"",
+      "formats": [
+        {
+          "format": "Стандарт  19:20 от 900 ₽ 23:20 от 900 ₽",
+          "sessions": [
+            {
+              "time": "15:40",
+              "price": "от 900 ₽",
+              "route": "/order/session/376979998?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:20",
+              "price": "от 900 ₽",
+              "route": "/order/session/376980014?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:20",
+              "price": "от 900 ₽",
+              "route": "/order/session/376981061?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Комфорт+  22:20 от 1550 ₽ 01:10 от 1550 ₽",
+          "sessions": [
+            {
+              "time": "11:05",
+              "price": "от 1550 ₽",
+              "route": "/order/session/376979977?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:20",
+              "price": "от 1550 ₽",
+              "route": "/order/session/376980029?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "01:10",
+              "price": "от 1550 ₽",
+              "route": "/order/session/376980046?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Премиум",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 3100 ₽",
+              "route": "/order/session/376980003?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "5 Иридиум",
+      "address": "г. Зеленоград, Крюковская пл., 1, ж/д, ст. Крюково ТРЦ «Иридиум», 3 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  22:35 от 650 ₽",
+          "sessions": [
+            {
+              "time": "16:25",
+              "price": "от 650 ₽",
+              "route": "/order/session/376978835?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:35",
+              "price": "от 650 ₽",
+              "route": "/order/session/376978846?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 София",
+      "address": "г. Москва, Сиреневый бульвар, 31",
+      "formats": [
+        {
+          "format": "Комфорт+  21:45 от 900 ₽",
+          "sessions": [
+            {
+              "time": "17:05",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976988?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:45",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976999?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "4 Высота",
+      "address": "г. Москва, ул. Юных Ленинцев, 52",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "22:30",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976373?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Будапешт",
+      "address": "г. Москва, ул. Лескова, 14",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "19:15",
+              "price": "от 770 ₽",
+              "route": "/order/session/376976777?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "7 Атриум",
+      "address": "г. Москва, ул. Земляной вал, 33 (ТРК \"АТРИУМ\")",
+      "formats": [
+        {
+          "format": "Комфорт+  20:20 от 900 ₽ 23:05 от 900 ₽",
+          "sessions": [
+            {
+              "time": "13:35",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977217?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:20",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977231?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:05",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977238?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "9 Vegas Каширский",
+      "address": "г. Москва, 24-ый км МКАД, ТЦ Вегас, 2 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  20:30 от 900 ₽",
+          "sessions": [
+            {
+              "time": "14:50",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977873?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:30",
+              "price": "от 900 ₽",
+              "route": "/order/session/376977886?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 Реутов",
+      "address": "г. Реутов, Носовихинское шоссе, д. 45, ТРЦ \"Реутов Парк\"",
+      "formats": [
+        {
+          "format": "Стандарт  21:40 от 750 ₽",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979051?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 750 ₽",
+              "route": "/order/session/376979063?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Vegas 22",
+      "address": "г. Красногорск, ул. Международная д.12 , ТК«Vegas Крокус Сити», Тел. боулинг-центра \"КАРО Страйк\": +7 966 019 12 75",
+      "formats": [
+        {
+          "format": "Стандарт  20:55 от 850 ₽ 23:40 от 850 ₽",
+          "sessions": [
+            {
+              "time": "16:10",
+              "price": "от 850 ₽",
+              "route": "/order/session/376975584?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:55",
+              "price": "от 850 ₽",
+              "route": "/order/session/376975611?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 850 ₽",
+              "route": "/order/session/376975620?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "8 Саларис",
+      "address": "г.Москва, 23-й километр Киевского ш. (п. Московский), д.1 ТРЦ Саларис",
+      "formats": [
+        {
+          "format": "Стандарт  23:40 от 900 ₽",
+          "sessions": [
+            {
+              "time": "20:15",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976186?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 900 ₽",
+              "route": "/order/session/376976194?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Киргизия",
+      "address": "г. Москва, Зеленый пр., 81",
+      "formats": [
+        {
+          "format": "Комфорт+  22:30 от 850 ₽",
+          "sessions": [
+            {
+              "time": "18:00",
+              "price": "от 850 ₽",
+              "route": "/order/session/376980902?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:30",
+              "price": "от 850 ₽",
+              "route": "/order/session/376980910?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "11 Октябрь",
+      "address": "г. Москва, ул. Новый Арбат, д. 24",
+      "formats": [
+        {
+          "format": "Стандарт  23:10 от 850 ₽",
+          "sessions": [
+            {
+              "time": "18:00",
+              "price": "от 850 ₽",
+              "route": "/order/session/376981269?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:10",
+              "price": "от 850 ₽",
+              "route": "/order/session/376981282?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Щука",
+      "address": "г. Москва, ул. Щукинская, д. 42, ТРК \"Щука\"",
+      "formats": [
+        {
+          "format": "Стандарт  21:25 от 720 ₽",
+          "sessions": [
+            {
+              "time": "18:00",
+              "price": "от 720 ₽",
+              "route": "/order/session/376979265?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:25",
+              "price": "от 720 ₽",
+              "route": "/order/session/376979271?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2026-11-23": [
+    {
+      "cinema": "13 Vegas Кунцево",
+      "address": "с. Немчиновка, Одинцовский район, 56 км МКАД , ТРК «Vegas Кунцево»",
+      "formats": [
+        {
+          "format": "Стандарт",
+          "sessions": [
+            {
+              "time": "21:40",
+              "price": "от 390 ₽",
+              "route": "/order/session/376979482?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Sky 17 Авиапарк",
+      "address": "г. Москва, ул. Ходынский бульвар д. 4, ТЦ \"АВИАПАРК\"",
+      "formats": [
+        {
+          "format": "Стандарт  19:20 от 420 ₽ 23:20 от 420 ₽",
+          "sessions": [
+            {
+              "time": "13:25",
+              "price": "от 390 ₽",
+              "route": "/order/session/376980066?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:20",
+              "price": "от 420 ₽",
+              "route": "/order/session/376980093?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:20",
+              "price": "от 420 ₽",
+              "route": "/order/session/376981066?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Комфорт+  22:20 от 570 ₽ 01:10 от 570 ₽",
+          "sessions": [
+            {
+              "time": "11:05",
+              "price": "от 570 ₽",
+              "route": "/order/session/376980056?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:20",
+              "price": "от 570 ₽",
+              "route": "/order/session/376980108?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "01:10",
+              "price": "от 570 ₽",
+              "route": "/order/session/376980125?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Премиум",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 2600 ₽",
+              "route": "/order/session/376980084?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "5 Иридиум",
+      "address": "г. Зеленоград, Крюковская пл., 1, ж/д, ст. Крюково ТРЦ «Иридиум», 3 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  22:35 от 360 ₽",
+          "sessions": [
+            {
+              "time": "16:15",
+              "price": "от 300 ₽",
+              "route": "/order/session/376978855?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:35",
+              "price": "от 360 ₽",
+              "route": "/order/session/376978866?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 София",
+      "address": "г. Москва, Сиреневый бульвар, 31",
+      "formats": [
+        {
+          "format": "Комфорт+  21:45 от 420 ₽",
+          "sessions": [
+            {
+              "time": "17:05",
+              "price": "от 420 ₽",
+              "route": "/order/session/376977024?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:45",
+              "price": "от 420 ₽",
+              "route": "/order/session/376977035?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "4 Высота",
+      "address": "г. Москва, ул. Юных Ленинцев, 52",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "15:50",
+              "price": "от 390 ₽",
+              "route": "/order/session/376976383?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Будапешт",
+      "address": "г. Москва, ул. Лескова, 14",
+      "formats": [
+        {
+          "format": "Комфорт+  19:15 от 360 ₽",
+          "sessions": [
+            {
+              "time": "15:45",
+              "price": "от 330 ₽",
+              "route": "/order/session/376976797?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:15",
+              "price": "от 360 ₽",
+              "route": "/order/session/376976803?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "7 Атриум",
+      "address": "г. Москва, ул. Земляной вал, 33 (ТРК \"АТРИУМ\")",
+      "formats": [
+        {
+          "format": "Комфорт+  20:35 от 450 ₽ 23:05 от 450 ₽",
+          "sessions": [
+            {
+              "time": "14:10",
+              "price": "от 420 ₽",
+              "route": "/order/session/376977250?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:35",
+              "price": "от 450 ₽",
+              "route": "/order/session/376977261?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:05",
+              "price": "от 450 ₽",
+              "route": "/order/session/376977267?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "9 Vegas Каширский",
+      "address": "г. Москва, 24-ый км МКАД, ТЦ Вегас, 2 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  20:40 от 420 ₽",
+          "sessions": [
+            {
+              "time": "15:00",
+              "price": "от 360 ₽",
+              "route": "/order/session/376978492?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:40",
+              "price": "от 420 ₽",
+              "route": "/order/session/376978503?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 Реутов",
+      "address": "г. Реутов, Носовихинское шоссе, д. 45, ТРЦ \"Реутов Парк\"",
+      "formats": [
+        {
+          "format": "Стандарт  21:40 от 340 ₽",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 340 ₽",
+              "route": "/order/session/376979088?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 340 ₽",
+              "route": "/order/session/376979100?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Vegas 22",
+      "address": "г. Красногорск, ул. Международная д.12 , ТК«Vegas Крокус Сити», Тел. боулинг-центра \"КАРО Страйк\": +7 966 019 12 75",
+      "formats": [
+        {
+          "format": "Стандарт  20:55 от 390 ₽ 23:40 от 390 ₽",
+          "sessions": [
+            {
+              "time": "16:10",
+              "price": "от 360 ₽",
+              "route": "/order/session/376975649?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:55",
+              "price": "от 390 ₽",
+              "route": "/order/session/376975675?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 390 ₽",
+              "route": "/order/session/376975684?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "8 Саларис",
+      "address": "г.Москва, 23-й километр Киевского ш. (п. Московский), д.1 ТРЦ Саларис",
+      "formats": [
+        {
+          "format": "Стандарт  00:35 от 420 ₽",
+          "sessions": [
+            {
+              "time": "20:15",
+              "price": "от 420 ₽",
+              "route": "/order/session/376976240?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "00:35",
+              "price": "от 420 ₽",
+              "route": "/order/session/376976252?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Киргизия",
+      "address": "г. Москва, Зеленый пр., 81",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "20:50",
+              "price": "от 420 ₽",
+              "route": "/order/session/376980931?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "11 Октябрь",
+      "address": "г. Москва, ул. Новый Арбат, д. 24",
+      "formats": [
+        {
+          "format": "Стандарт  19:00 от 390 ₽",
+          "sessions": [
+            {
+              "time": "10:25",
+              "price": "от 360 ₽",
+              "route": "/order/session/376981287?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:00",
+              "price": "от 390 ₽",
+              "route": "/order/session/376981316?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Щука",
+      "address": "г. Москва, ул. Щукинская, д. 42, ТРК \"Щука\"",
+      "formats": [
+        {
+          "format": "Стандарт  18:00 от 340 ₽",
+          "sessions": [
+            {
+              "time": "13:10",
+              "price": "от 280 ₽",
+              "route": "/order/session/376979280?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "18:00",
+              "price": "от 340 ₽",
+              "route": "/order/session/376979288?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2026-11-24": [
+    {
+      "cinema": "13 Vegas Кунцево",
+      "address": "с. Немчиновка, Одинцовский район, 56 км МКАД , ТРК «Vegas Кунцево»",
+      "formats": [
+        {
+          "format": "Стандарт",
+          "sessions": [
+            {
+              "time": "21:40",
+              "price": "от 320 ₽",
+              "route": "/order/session/376979509?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Sky 17 Авиапарк",
+      "address": "г. Москва, ул. Ходынский бульвар д. 4, ТЦ \"АВИАПАРК\"",
+      "formats": [
+        {
+          "format": "Стандарт  23:20 от 350 ₽",
+          "sessions": [
+            {
+              "time": "19:50",
+              "price": "от 350 ₽",
+              "route": "/order/session/376981075?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:20",
+              "price": "от 350 ₽",
+              "route": "/order/session/376981068?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Комфорт+  22:20 от 470 ₽ 01:10 от 470 ₽",
+          "sessions": [
+            {
+              "time": "11:05",
+              "price": "от 470 ₽",
+              "route": "/order/session/376980135?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:20",
+              "price": "от 470 ₽",
+              "route": "/order/session/376980187?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "01:10",
+              "price": "от 470 ₽",
+              "route": "/order/session/376980204?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Премиум",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 1300 ₽",
+              "route": "/order/session/376980163?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "5 Иридиум",
+      "address": "г. Зеленоград, Крюковская пл., 1, ж/д, ст. Крюково ТРЦ «Иридиум», 3 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  22:35 от 300 ₽",
+          "sessions": [
+            {
+              "time": "16:15",
+              "price": "от 250 ₽",
+              "route": "/order/session/376978875?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:35",
+              "price": "от 300 ₽",
+              "route": "/order/session/376978886?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 София",
+      "address": "г. Москва, Сиреневый бульвар, 31",
+      "formats": [
+        {
+          "format": "Комфорт+  21:45 от 350 ₽",
+          "sessions": [
+            {
+              "time": "17:05",
+              "price": "от 350 ₽",
+              "route": "/order/session/376977060?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:45",
+              "price": "от 350 ₽",
+              "route": "/order/session/376977071?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "4 Высота",
+      "address": "г. Москва, ул. Юных Ленинцев, 52",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "15:50",
+              "price": "от 320 ₽",
+              "route": "/order/session/376976401?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Будапешт",
+      "address": "г. Москва, ул. Лескова, 14",
+      "formats": [
+        {
+          "format": "Комфорт+  19:15 от 300 ₽",
+          "sessions": [
+            {
+              "time": "15:45",
+              "price": "от 270 ₽",
+              "route": "/order/session/376976823?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:15",
+              "price": "от 300 ₽",
+              "route": "/order/session/376976829?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "7 Атриум",
+      "address": "г. Москва, ул. Земляной вал, 33 (ТРК \"АТРИУМ\")",
+      "formats": [
+        {
+          "format": "Комфорт+  20:15 от 370 ₽ 23:05 от 370 ₽",
+          "sessions": [
+            {
+              "time": "13:30",
+              "price": "от 350 ₽",
+              "route": "/order/session/376977279?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:15",
+              "price": "от 370 ₽",
+              "route": "/order/session/376977293?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:05",
+              "price": "от 370 ₽",
+              "route": "/order/session/376977300?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "9 Vegas Каширский",
+      "address": "г. Москва, 24-ый км МКАД, ТЦ Вегас, 2 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  20:40 от 350 ₽",
+          "sessions": [
+            {
+              "time": "15:00",
+              "price": "от 300 ₽",
+              "route": "/order/session/376978523?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:40",
+              "price": "от 350 ₽",
+              "route": "/order/session/376978534?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 Реутов",
+      "address": "г. Реутов, Носовихинское шоссе, д. 45, ТРЦ \"Реутов Парк\"",
+      "formats": [
+        {
+          "format": "Стандарт  22:00 от 280 ₽",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 280 ₽",
+              "route": "/order/session/376979123?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:00",
+              "price": "от 280 ₽",
+              "route": "/order/session/376979138?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Vegas 22",
+      "address": "г. Красногорск, ул. Международная д.12 , ТК«Vegas Крокус Сити», Тел. боулинг-центра \"КАРО Страйк\": +7 966 019 12 75",
+      "formats": [
+        {
+          "format": "Стандарт  20:55 от 320 ₽ 23:40 от 320 ₽",
+          "sessions": [
+            {
+              "time": "16:10",
+              "price": "от 300 ₽",
+              "route": "/order/session/376975713?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:55",
+              "price": "от 320 ₽",
+              "route": "/order/session/376975739?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 320 ₽",
+              "route": "/order/session/376975748?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "8 Саларис",
+      "address": "г.Москва, 23-й километр Киевского ш. (п. Московский), д.1 ТРЦ Саларис",
+      "formats": [
+        {
+          "format": "Стандарт  00:35 от 350 ₽",
+          "sessions": [
+            {
+              "time": "20:15",
+              "price": "от 350 ₽",
+              "route": "/order/session/376976271?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "00:35",
+              "price": "от 350 ₽",
+              "route": "/order/session/376976283?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Киргизия",
+      "address": "г. Москва, Зеленый пр., 81",
+      "formats": [
+        {
+          "format": "Комфорт+  18:00 от 350 ₽ 22:30 от 350 ₽",
+          "sessions": [
+            {
+              "time": "11:00",
+              "price": "от 270 ₽",
+              "route": "/order/session/376980939?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "18:00",
+              "price": "от 350 ₽",
+              "route": "/order/session/376980950?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:30",
+              "price": "от 350 ₽",
+              "route": "/order/session/376980958?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Щука",
+      "address": "г. Москва, ул. Щукинская, д. 42, ТРК \"Щука\"",
+      "formats": [
+        {
+          "format": "Стандарт",
+          "sessions": [
+            {
+              "time": "18:00",
+              "price": "от 280 ₽",
+              "route": "/order/session/376979310?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2026-11-25": [
+    {
+      "cinema": "13 Vegas Кунцево",
+      "address": "с. Немчиновка, Одинцовский район, 56 км МКАД , ТРК «Vegas Кунцево»",
+      "formats": [
+        {
+          "format": "Стандарт",
+          "sessions": [
+            {
+              "time": "21:40",
+              "price": "от 390 ₽",
+              "route": "/order/session/376979536?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Sky 17 Авиапарк",
+      "address": "г. Москва, ул. Ходынский бульвар д. 4, ТЦ \"АВИАПАРК\"",
+      "formats": [
+        {
+          "format": "Стандарт  19:35 от 420 ₽ 23:45 от 420 ₽",
+          "sessions": [
+            {
+              "time": "13:40",
+              "price": "от 390 ₽",
+              "route": "/order/session/376980229?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:35",
+              "price": "от 420 ₽",
+              "route": "/order/session/376980258?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:45",
+              "price": "от 420 ₽",
+              "route": "/order/session/376980279?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Комфорт+  22:20 от 570 ₽ 01:10 от 570 ₽",
+          "sessions": [
+            {
+              "time": "11:05",
+              "price": "от 570 ₽",
+              "route": "/order/session/376980217?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:20",
+              "price": "от 570 ₽",
+              "route": "/order/session/376980272?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "01:10",
+              "price": "от 570 ₽",
+              "route": "/order/session/376980289?referer=film&scheduleMode=hall"
+            }
+          ]
+        },
+        {
+          "format": "Премиум",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 2600 ₽",
+              "route": "/order/session/376980249?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "5 Иридиум",
+      "address": "г. Зеленоград, Крюковская пл., 1, ж/д, ст. Крюково ТРЦ «Иридиум», 3 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  22:35 от 360 ₽",
+          "sessions": [
+            {
+              "time": "16:15",
+              "price": "от 300 ₽",
+              "route": "/order/session/376978895?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "22:35",
+              "price": "от 360 ₽",
+              "route": "/order/session/376978905?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 София",
+      "address": "г. Москва, Сиреневый бульвар, 31",
+      "formats": [
+        {
+          "format": "Комфорт+  21:40 от 420 ₽",
+          "sessions": [
+            {
+              "time": "17:05",
+              "price": "от 420 ₽",
+              "route": "/order/session/376977095?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 420 ₽",
+              "route": "/order/session/376977107?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "4 Высота",
+      "address": "г. Москва, ул. Юных Ленинцев, 52",
+      "formats": [
+        {
+          "format": "Комфорт+",
+          "sessions": [
+            {
+              "time": "15:50",
+              "price": "от 390 ₽",
+              "route": "/order/session/376976419?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Будапешт",
+      "address": "г. Москва, ул. Лескова, 14",
+      "formats": [
+        {
+          "format": "Комфорт+  19:15 от 360 ₽",
+          "sessions": [
+            {
+              "time": "15:45",
+              "price": "от 330 ₽",
+              "route": "/order/session/376976849?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "19:15",
+              "price": "от 360 ₽",
+              "route": "/order/session/376976855?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "7 Атриум",
+      "address": "г. Москва, ул. Земляной вал, 33 (ТРК \"АТРИУМ\")",
+      "formats": [
+        {
+          "format": "Комфорт+  20:15 от 450 ₽ 23:05 от 450 ₽",
+          "sessions": [
+            {
+              "time": "13:30",
+              "price": "от 420 ₽",
+              "route": "/order/session/376977310?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:15",
+              "price": "от 450 ₽",
+              "route": "/order/session/376977323?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:05",
+              "price": "от 450 ₽",
+              "route": "/order/session/376977330?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "9 Vegas Каширский",
+      "address": "г. Москва, 24-ый км МКАД, ТЦ Вегас, 2 этаж",
+      "formats": [
+        {
+          "format": "Комфорт+  20:40 от 420 ₽",
+          "sessions": [
+            {
+              "time": "15:00",
+              "price": "от 360 ₽",
+              "route": "/order/session/376978554?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:40",
+              "price": "от 420 ₽",
+              "route": "/order/session/376978565?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "10 Реутов",
+      "address": "г. Реутов, Носовихинское шоссе, д. 45, ТРЦ \"Реутов Парк\"",
+      "formats": [
+        {
+          "format": "Стандарт  21:40 от 340 ₽",
+          "sessions": [
+            {
+              "time": "17:10",
+              "price": "от 340 ₽",
+              "route": "/order/session/376979161?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "21:40",
+              "price": "от 340 ₽",
+              "route": "/order/session/376979173?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "Vegas 22",
+      "address": "г. Красногорск, ул. Международная д.12 , ТК«Vegas Крокус Сити», Тел. боулинг-центра \"КАРО Страйк\": +7 966 019 12 75",
+      "formats": [
+        {
+          "format": "Стандарт  20:55 от 390 ₽ 23:40 от 390 ₽",
+          "sessions": [
+            {
+              "time": "16:10",
+              "price": "от 360 ₽",
+              "route": "/order/session/376975777?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "20:55",
+              "price": "от 390 ₽",
+              "route": "/order/session/376975803?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "23:40",
+              "price": "от 390 ₽",
+              "route": "/order/session/376975812?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "8 Саларис",
+      "address": "г.Москва, 23-й километр Киевского ш. (п. Московский), д.1 ТРЦ Саларис",
+      "formats": [
+        {
+          "format": "Стандарт  00:35 от 420 ₽",
+          "sessions": [
+            {
+              "time": "20:15",
+              "price": "от 420 ₽",
+              "route": "/order/session/376976302?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "00:35",
+              "price": "от 420 ₽",
+              "route": "/order/session/376976313?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Киргизия",
+      "address": "г. Москва, Зеленый пр., 81",
+      "formats": [
+        {
+          "format": "Комфорт+  18:00 от 420 ₽",
+          "sessions": [
+            {
+              "time": "11:00",
+              "price": "от 330 ₽",
+              "route": "/order/session/376980964?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "18:00",
+              "price": "от 420 ₽",
+              "route": "/order/session/376980975?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cinema": "6 Щука",
+      "address": "г. Москва, ул. Щукинская, д. 42, ТРК \"Щука\"",
+      "formats": [
+        {
+          "format": "Стандарт  18:00 от 340 ₽",
+          "sessions": [
+            {
+              "time": "13:10",
+              "price": "от 280 ₽",
+              "route": "/order/session/376979328?referer=film&scheduleMode=hall"
+            },
+            {
+              "time": "18:00",
+              "price": "от 340 ₽",
+              "route": "/order/session/376979337?referer=film&scheduleMode=hall"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

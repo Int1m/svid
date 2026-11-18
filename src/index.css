@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('/fonts/cormorant-500.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('/fonts/cormorant-600.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('/fonts/cormorant-italic-500.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('/fonts/manrope-400.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('/fonts/manrope-500.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('/fonts/manrope-600.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('/fonts/manrope-700.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    /* Primitive palette */
+    --ink-950: oklch(0.16 0.018 18);
+    --ink-900: oklch(0.205 0.024 18);
+    --ink-800: oklch(0.27 0.028 18);
+    --paper-50: oklch(0.965 0.015 65);
+    --paper-100: oklch(0.91 0.02 65);
+    --paper-400: oklch(0.76 0.025 55);
+    --cherry-500: oklch(0.61 0.19 18);
+    --cherry-400: oklch(0.69 0.17 19);
+    --forest-600: oklch(0.39 0.075 155);
+
+    /* Semantic palette */
+    --background: var(--ink-950);
+    --foreground: var(--paper-50);
+    --card: var(--ink-900);
+    --card-foreground: var(--paper-50);
+    --popover: var(--ink-900);
+    --popover-foreground: var(--paper-50);
+    --primary: var(--cherry-500);
+    --primary-foreground: var(--paper-50);
+    --secondary: var(--ink-800);
+    --secondary-foreground: var(--paper-50);
+    --muted: var(--ink-800);
+    --muted-foreground: var(--paper-400);
+    --accent: var(--cherry-400);
+    --accent-foreground: var(--paper-50);
+    --destructive: var(--cherry-500);
+    --destructive-foreground: var(--paper-50);
+    --border: oklch(0.4 0.03 20 / 0.5);
+    --input: oklch(0.46 0.04 20 / 0.65);
+    --ring: var(--cherry-400);
+    --radius: 1rem;
+  }
+
+  * {
+    box-sizing: border-box;
+    border-color: var(--border);
+  }
+
+  html {
+    background: var(--background);
+    color-scheme: dark;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100dvh;
+    background: var(--background);
+    color: var(--foreground);
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  button,
+  input,
+  select {
+    font: inherit;
+  }
+
+  button,
+  a,
+  input,
+  select {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+  button:disabled {
+    cursor: not-allowed;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--ring);
+    outline-offset: 4px;
+  }
+
+  ::selection {
+    background: var(--cherry-500);
+    color: var(--paper-50);
+  }
+}
